@@ -1,6 +1,6 @@
 # Wallpapers
 
-A collection of wallpapers created with [Midjourney](https://www.midjourney.com/).
+A collection of wallpapers created with [Midjourney](https://www.midjourney.com/) and [ElevenLabs](https://elevenlabs.io/).
 
 ## Formats
 
@@ -18,4 +18,4 @@ Feel free to use these wallpapers for personal or commercial purposes. Attributi
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-All images were generated using Midjourney by [hnsstrk](https://github.com/hnsstrk).
+All images were generated using Midjourney or ElevenLabs by [hnsstrk](https://github.com/hnsstrk).
